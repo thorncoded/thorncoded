@@ -2,9 +2,4 @@
 
 # Hello World!
 
-My name is Mason, and here are a few things I'm working on:
-
-- 🔭 I’m currently working on portfolio projects.
-- 🌱 I’m currently learning Unity
-- 👯 I’m looking to collaborate on a 3D Unity game!
-I **love** nerding out about creative coding, so don't hesitate to reach out!
+My name is Mason, I'm currently a research aide in a cancer research lab at SUNY, as well as an AI/ML teacher. As I start to make the transition to industry from teaching, I'll be publishing some of my custom lesson plans so you too can be a databender!
